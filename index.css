@@ -1,0 +1,74 @@
+body{
+    background-color: rgb(8, 8, 8);
+    color: white;
+}
+.header{
+    border-bottom-style: solid;
+}
+.firstP{
+    background-color: tomato;
+    margin: .2rem;
+    padding: 1.1rem;
+}
+.secondP{
+    background-color: rgb(40, 164, 236);
+    margin: .2rem;
+    padding: 1.1rem;
+}
+
+.thirdP{
+    background-color: rgb(92, 40, 236);
+    margin: .2rem;
+    padding: 1.1rem;
+}
+
+.fourthP{
+    background-color: rgb(236, 40, 236);
+    margin: .2rem;
+    padding: 1.1rem;
+}
+
+h3{
+    text-align: center;
+}
+.form_table{
+    background-color: white;
+    color: black;
+    height: 300px;
+    width: 1330px;
+}
+.form_input{
+    text-align: center;
+}
+#name{
+    margin-top: 25px;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+td{
+    border: 1px solid white;
+    padding: 8px;
+    text-align: left;
+}
+.data_table{
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+    width: 50%;
+    height: 100%;
+}
+.table{
+    border-bottom-style: solid;
+}
+
+.footer{
+    text-align: center;
+}
+/* .input{
+    width: auto;
+    height: auto;
+    display: block;
+} */
